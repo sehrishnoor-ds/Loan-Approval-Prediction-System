@@ -22,13 +22,13 @@ While **Logistic Regression** is standard in banking for its "explainability," *
 - Serialization: Joblib
 
 # 💻 How to Run the App
-1. Clone the repository:
+**1. Clone the repository:**
 Run the following commands,
 - git clone https://github.com/sehrishnoor-ds/loan-approval-predictor.git
 - cd loan_approval_predictor
-2. Install dependencies:
+**2. Install dependencies:**
 - pip install -r requirements.txt
-3. Run the Streamlit app:
+**3. Run the Streamlit app:**
 Open your termial of VSCode RUN(if you are working in it),
 - streamlit run app.py
 
